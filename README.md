@@ -1,1 +1,1 @@
-# Student-Performance-Predictor-Machine-Learning
+# Student-Performance-Predictor-Machine-Learning-Model
